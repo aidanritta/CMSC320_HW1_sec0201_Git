@@ -9,3 +9,7 @@ Answer: One field is business because they often have to interpret data to figur
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines 2 branches into a new commit while rebasing rerwrites the history of a branch so it looks like it was built on the other.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am excited for my intro to AI course because it seems very interesting but I am very scared it is going to be very hard.
