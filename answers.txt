@@ -5,3 +5,7 @@ Answer: Git is used by many different companies so getting practices is helpful.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: One field is business because they often have to interpret data to figure out market trends and company financials.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines 2 branches into a new commit while rebasing rerwrites the history of a branch so it looks like it was built on the other.
